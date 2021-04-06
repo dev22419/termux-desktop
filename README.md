@@ -5,7 +5,7 @@ Now you can easily install the termux desktop / GUI in just few or one command .
 
 Let's get started
 
-#installation
+# installation
 
 - git clone 
 
