@@ -25,7 +25,7 @@ Let's get started
 
 ![](Photo1.jpg)
 
-![](Photo2.jpg)
+![](Photo4.jpg)
 
 - then enter password and you're done .
 
