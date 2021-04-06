@@ -3,6 +3,8 @@ install termux desktop enviroment ( GUI ) in just few command
 
 Now you can easily install the termux desktop / GUI in just few or one command . In this shell script you will get high resolution and HD GUI of termux desktop .
 
+![]photo1.jpg
+
 Let's get started
 
 # installation
