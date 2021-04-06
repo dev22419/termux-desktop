@@ -40,6 +40,8 @@ Let's get started
 
 # screenshots
 
+![](Photo2.jpg)
+
 # note
 
 If you are not getting a perfect gui and getting a blur gui the change your vnc viewer quality settings to high and then you will get a perfect gui 
