@@ -2,7 +2,7 @@
 <a href="https://bit.ly/3bgtjYk"><img title="Made in INDIA" src="https://img.shields.io/badge/MADE%20IN-INDIA-SCRIPT?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
 </p>
 <P align="center">
-<img src="https://img.shields.io/badge/Github-Dev22419-green?style=plastic&logo=GitHub"></a>
+<a href="https://github.com/dev22419"><img src="https://img.shields.io/badge/Github-Dev22419-green?style=plastic&logo=GitHub"></a>
 </P>
 
 # termux-desktop
