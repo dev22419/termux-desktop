@@ -1,3 +1,7 @@
+<p align="center">
+<a href="https://bit.ly/3bgtjYk">
+<img title="Made in INDIA"
+
 # termux-desktop
 install termux desktop enviroment ( GUI ) in just few command
 
