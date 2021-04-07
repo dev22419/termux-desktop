@@ -2,7 +2,7 @@
 <a href="https://bit.ly/3bgtjYk"><img title="Made in INDIA" src="https://img.shields.io/badge/MADE%20IN-INDIA-SCRIPT?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
 </p>
 <P align="center">
-<a href="https://github.com/github-dev22419"><img title="Github" src="https://img.shields.io/badge/dev22419-brightgreen?style=for-the-badge&logo=github"></a>
+<img src="https://img.shields.io/badge/Github-Dev22419-green?style=plastic&logo=GitHub"></a>
 </P>
 
 # termux-desktop
@@ -12,7 +12,6 @@ Now you can easily install the termux desktop / GUI in just few or one command .
 
 ![](Photo2.jpg)
 
-Let's get started
 
 # installation
 
