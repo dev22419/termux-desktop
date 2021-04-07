@@ -4,6 +4,7 @@
 <P align="center">
 <a href="https://github.com/dev22419"><img src="https://img.shields.io/badge/Github-Dev22419-green?style=plastic&logo=GitHub"></a>
 </P>
+<P align="center">
 
 # termux-desktop
 install termux desktop enviroment ( GUI ) in just few command
