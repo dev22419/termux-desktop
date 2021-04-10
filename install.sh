@@ -1,3 +1,7 @@
+termux-toast -b white -c black -g middle script by :-
+
+termux-toast -b white -c red -g middle dev22419
+
 pkg update -y 
 
 pkg upgrade -y
