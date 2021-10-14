@@ -14,7 +14,7 @@ Now you can easily install the termux desktop / GUI in just few or one command .
 ![](Photo2.jpg)
 
 
-#requriments
+# requirements
 
 - android 7.0 +
 
