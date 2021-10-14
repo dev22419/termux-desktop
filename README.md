@@ -14,6 +14,17 @@ Now you can easily install the termux desktop / GUI in just few or one command .
 ![](Photo2.jpg)
 
 
+#requriments
+
+- android 7.0 +
+
+- 700 mb internet
+
+- 1 gb free space in internal storage
+
+- lastest version of termux 
+
+
 # installation
 
 - git clone 
